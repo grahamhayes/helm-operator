@@ -8,7 +8,7 @@ require (
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/fluxcd/flux v1.17.2-0.20200121140732-3903cf8e71c3
-	github.com/fluxcd/helm-operator/pkg/install v0.0.0-00010101000000-000000000000
+	github.com/fluxcd/helm-operator/pkg/install v0.0.0-20200206191601-8b676b003ab0
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-kit/kit v0.9.0
